@@ -1,6 +1,6 @@
 # MOCCA at ICMI21
 
-This repository contains the data for the MICCA@ICMI21 grand challenge. Please refer to the main site at https://competitions.codalab.org/competitions/31432 for a description of the competition and detailed instructions for participation.
+This repository contains the data for the MICCA@ICMI21 grand challenge. Please refer to the main site at https://competitions.codalab.org/competitions/31432 for a description of the competition and detailed instructions for participation. Please refer to our workshop site at: https://mocha-grand-challenge.github.io/ for further information on the associated workshop. 
 
 ## Training data 
 
